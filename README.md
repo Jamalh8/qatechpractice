@@ -21,3 +21,12 @@ _**bold and italics**_
 2. test2
 
 not indented
+
+[Testing Link to Google](https://www.google.com)
+
+[Test variable link][google-link]
+
+[google-link]: https://www.google.com
+
+test image 
+![alt text](https://cdn.britannica.com/78/43678-050-F4DC8D93/Starry-Night-canvas-Vincent-van-Gogh-New-1889.jpg)
