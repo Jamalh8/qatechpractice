@@ -13,13 +13,13 @@ for i in range(5, 11):
 # Write a while loop which asks for the names of 5 people, and for each person prints their name followed by the text "is awesome!"
 
 name_list = []
- 
 max_length = 5
+
 while len(name_list) < max_length:
     names = input("Enter your name: ")
     name_list.append(names)
-    print (name_list)
-
+    print(name_list)
+    
 for i in name_list:
     print(i, "is awesome!")
 
